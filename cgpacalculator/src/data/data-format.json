@@ -1,0 +1,20 @@
+{
+    "semester-number":{
+        "subjectCode1":{
+            "name":"subject-name",
+            "credits":"4.2"
+        },
+         "subjectCode2":{
+            "name":"subject-name",
+            "credits":"4.2"
+        },
+         "subjectCode3":{
+            "name":"subject-name",
+            "credits":"4.2"
+        },
+         "subjectCode4":{
+            "name":"subject-name",
+            "credits":"4.2"
+        }
+    }
+}
