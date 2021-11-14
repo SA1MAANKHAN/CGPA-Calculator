@@ -1,0 +1,24 @@
+.homePage{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(32, 58, 133);
+
+    display: grid;
+    place-items: center;
+
+    .logo__container{ 
+        height: 12rem;
+        width: 12rem;
+        background-color: white;  
+        display: grid;
+        place-items: center;
+        border-radius: 1rem;
+        box-shadow: 5px 5px 3px rgb(36, 36, 36);
+    
+        img{
+            height: 10rem;
+            width: 10rem;
+            background-color: white;
+            }
+        }
+}
